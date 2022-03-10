@@ -6,3 +6,4 @@
 	<img src="https://i.ibb.co/KVf64g9/swiper-image.png" alt="Swiper image">
 </p>
 
+Live: <a href="https://parallax-gallery-template.netlify.app/">parallax-gallery-template</a>
